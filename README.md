@@ -1,6 +1,6 @@
 # Interface for pyAT 
 This code is an interface running in Jupyter Notebook or Google Colab, removing the necessity of programming skills, to run basic accelerator physics calculations using pyAT in a "clean" environment.
-Many of the calculations, element defnitions and analysis from pyAT are NOT available!
+Many of the calculations, element definitions and analysis from pyAT are NOT available!
 
 The interface is developed to allow easy access for early stage students to use a powerful simulation tool without extensive previous knowledge. The modules in the code are chosen and designed to follow simulation exercises in a course given at Lund University, Sweden.
 
