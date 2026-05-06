@@ -15,7 +15,7 @@ Using Accelerator Toolbox in a teaching environment, S. Werin, J. Bjorklund Sven
 This is directly available through this link: \
 https://colab.research.google.com/github/werin99/pyAT_interface/blob/master/pyAT_interface_Colab.ipynb 
 
-To save changes you have to save to your own Google Drive. From there you can also store different files for different sessions and make changes.
+This will open Colab in a window in your browser, download the code from here (GitHub) and open it. To save changes you have to save to your own Google Drive. From there you can also store different files for different sessions and make changes.
 
 ## Running in another Jupyter Notebook environment
 ### Method 1 
