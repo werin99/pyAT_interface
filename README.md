@@ -17,7 +17,7 @@ https://colab.research.google.com/github/werin99/pyAT_interface/blob/master/pyAT
 
 This will open Colab in a window in your browser, download the code from here (GitHub) and open it. To save changes you have to save to your own Google Drive. From there you can also store different files for different sessions and make changes.
 
-## Running in another Jupyter Notebook environment
+## Running in a standard Jupyter Notebook environment
 ### Method 1 
 You can download the pyAT_interface_JN.ipynb directly from here
 - Click to open the file
