@@ -39,11 +39,10 @@ Some modules are needed. While many are standard some might be needed to install
 This is done by the code itself when running in Colab and should work also in other environments.
 (To install manually: "pip install accelerator-toolbox")
 
-These modules are also needed (All are by default available in Colab)
-/list{
-/item numpy
-matplotlib
-pandas
-ipywidgets
-IPython
+These modules are also needed (all are by default available in Colab and EOSC)
+- numpy
+- matplotlib
+- pandas
+- ipywidgets
+- IPython
 
