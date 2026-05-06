@@ -18,20 +18,20 @@ https://colab.research.google.com/github/werin99/pyAT_interface/blob/master/pyAT
 To save changes you have to save to your own Google Drive. From there you can also store different files for different sessions and make changes.
 
 ## Running in another Jupyter Notebook environment
-### Method 1 \
+### Method 1 
 You can download the pyAT_interface_JN.ipynb directly from here
 - Click to open the file
 - press the "three dots" at the top right corner and choose "Download"
 
-### Method 2\
+### Method 2
 - Open a new notebook
 - Write and execute a cell with the following code:\
 *!git clone https://github.com/werin99/pyAT_interface.git*
 - You will get a new folder "pyAT_interface". 
 Open the folder and select "pyAT_interface_JN.ipynb"
 
-### Method 3\
-In some Jupyter Notebook environments you can directly "clone" (download all files) from a GitHub repository.
+### Method 3
+In some Jupyter Notebook environments you can directly from the top menu "clone" (download all files) from a GitHub repository.
 Clone using this link: \
 https://github.com/werin99/pyAT_interface.git
 
