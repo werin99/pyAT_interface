@@ -26,7 +26,9 @@ You can either download the pyAT_interface_JN.ipynb directly from here
 
 In many Jupyter Notebook sessions you can directly "clone" (download all files) from a GitHub repository.
 Clone using this link: 
+
 https://github.com/werin99/pyAT_interface.git
+
 You will get a new folder in the left panel "pyAT_interface". 
 Open the folder and select "pyAT_interface_JN.ipynb"
 (While the Colab version will run, it will also display a lot of code.)
@@ -38,7 +40,8 @@ This is done by the code itself when running in Colab and should work also in ot
 (To install manually: "pip install accelerator-toolbox")
 
 These modules are also needed (All are by default available in Colab)
-numpy
+/list{
+/item numpy
 matplotlib
 pandas
 ipywidgets
