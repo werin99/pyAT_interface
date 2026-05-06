@@ -21,3 +21,8 @@ To save changes you have to save to your own Google Drive. From there you can al
 
 ## Running in another Jupyter Notebook environment
 You can either download the pyAT_interface_JN.ipynb directly from here
+- Click to open the file
+- press the "three dots" at the top right corner and choose "Download"
+
+In many Jupyter Notebook sessions you can directly "clone" (download all files) from a GitHub repository.
+Clone using this link: 
