@@ -17,7 +17,7 @@ Using Accelerator Toolbox in a teaching environment, S. Werin, J. Bjorklund Sven
 This is directly available through this link:
 https://colab.research.google.com/github/werin99/pyAT_interface/blob/master/pyAT_interface_Colab.ipynb 
 
-To save changes you have to save to your own Google Drive. From there you can also store different files for different sessions.
+To save changes you have to save to your own Google Drive. From there you can also store different files for different sessions and make changes.
 
 ## Running in another Jupyter Notebook environment
 You can either download the pyAT_interface_JN.ipynb directly from here
@@ -46,3 +46,5 @@ These modules are also needed (all are by default available in Colab and EOSC)
 - ipywidgets
 - IPython
 
+## Differences
+The main difference between the Colab version and the Jupyter Notebook version is that Colab has some more options to not show the code. This gives a more clean interface. In the JN version all code is concentrated in a few initial blocks and the main interface only calls one single function for the relevant part. In Colab the code is still distributed in a more standard Notebook structure.
