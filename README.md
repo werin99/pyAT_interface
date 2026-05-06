@@ -44,9 +44,12 @@ Open the folder and select "pyAT_interface_JN.ipynb"
 Some modules are needed. While many are standard some might be needed to install, especially if you run in your own Jupyter Notebook environment.
 "accelerator-toolbox" is in principle never available and has to be installed.
 This is done by the code itself when running in Colab and should work also in other environments.
-(To install manually: "pip install accelerator-toolbox")
+(To install manually use: "pip install accelerator-toolbox")
 
-These modules are also needed (all are by default available in Colab and EOSC)
+These modules are needed 
+- accelerator-toolbox
+
+These are also needed but are by default available in Colab and EOSC
 - numpy
 - matplotlib
 - pandas
