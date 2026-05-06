@@ -44,7 +44,7 @@ def main():
       import at
     except ImportError as e:
       print("Installing accelerator-toolbox")
-      !pip install accelerator-toolbox>=0.3.0
+      #!pip install accelerator-toolbox>=0.3.0
       #!pip install 'accelerator-toolbox>=0.1.0,<0.3.0' # Force old version
 
     # load libraries
