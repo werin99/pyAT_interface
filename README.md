@@ -13,4 +13,11 @@ The main difference in the implementation is that the accelerator lattice is des
 Reference:
 Using Accelerator Toolbox in a teaching environment, S. Werin, J. Bjorklund Svensson, F. Curbis and J. Lundquist, proceedings IPAC 2026, Deauville, France 2026
 
+## Running in Colab
+This is directly available through this link:
+https://colab.research.google.com/github/werin99/pyAT_interface/blob/master/pyAT_interface_Colab.ipynb 
 
+To save changes you have to save to your own Google Drive. From there you can also store different files for different sessions.
+
+## Running in another Jupyter Notebook environment
+You can either download the pyAT_interface_JN.ipynb directly from here
