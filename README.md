@@ -23,7 +23,7 @@ You can also follow the methods for a standard Notebook below.
 
 ### Running in a standard Jupyter Notebook environment
 ### Method 1 
-You can download the pyAT_interface_JN.ipynb directly from here
+You can download the pyAT_interface_JN.ipynb directly from here (github/werin99/pyAT_interface)
 - Click to open the file
 - press the "three dots" at the top right corner and choose "Download"
 
