@@ -79,7 +79,7 @@ The interace is built in five modules
 ### Step by step
 When your Notebook is open by one of the methods above, you should run the complete notebook. This is typically done by "Run all" which is present in the menus at the top or your window. 
 On a mobile phone the menus are often hidden and must be opened by pressing an "arrow down".
-The "Run all" command is sometimes found in a sub-menu, typicall "Run" or translated into your installed language.
+The "Run all" command is sometimes found in a sub-menu, typically "Run" or translated into your installed language.
 
 The interface check if Accelerator Toolbox is installed, and will install it if necessary. This can take 10-15 seconds but is only necessary once in each session.
 
@@ -97,7 +97,7 @@ Opening the lattice module will give you three boxes
 - Display the lattice
 
 In a Jupyter Notebook
-- "User lattices" is a separate module
+- "User lattices" is a separate module\
 Opening the "Lattice module" will give you two sections
 - latticeSelector
 - displayLattice
@@ -105,7 +105,7 @@ Opening the "Lattice module" will give you two sections
 In "User lattices" you create a new lattice or change an existing one. Initially you can run with the pre-defined lattices. (see below how to create a lattice)
 
 In "Select and make the lattice to use"/"lattticeSelector" you see a list with defined lattices. Select the one you want.
-Below you can define the preiodicity of the lattice. Finally press "Make the Lattice" to prepare it for calculations. This is necessary to do before attempting any other calculations!
+Below you can define the periodicity of the lattice. Finally press "Make the Lattice" to prepare it for calculations. This is necessary to do before attempting any other calculations!
 
 Here you will get the first test if your lattice will work. If you have defined a new lattice or a lattice that is not a ring you will get ".... AtWarning: Unstable ring...". 
 While your lattice is not ok, you can still work with some of the options in the following modules (geometry, tracking).
