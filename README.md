@@ -126,17 +126,17 @@ You can define drift sections (Drift), quadrupoles (Quad), sector bending magnet
 
 The important code is the following:
 
-myNewLattice=latticeClass()\
-myNewLattice.name='Empty lattice' \
-myNewLattice.elements = pd.DataFrame( \
-{ \
-1: ['Drift', 0,0,0], \
-2: ['Quad',  0,0,0], \
-3: ['Sbend', 0,0,0] # no ',' on last element \
-}, \
-index=['type','length','bending angle','K-value'] \
-) \
-Lattices.append(myNewLattice) # Add the lattice to the list of lattices \
+*myNewLattice=latticeClass()*\
+*myNewLattice.name='Empty lattice'*\
+*myNewLattice.elements = pd.DataFrame(*\
+*{*\
+*1: ['Drift', 0,0,0],*\
+*2: ['Quad',  0,0,0],*\
+*3: ['Sbend', 0,0,0] # no ',' on last element*\
+*},*\
+*index=['type','length','bending angle','K-value']*\
+*)*\
+*Lattices.append(myNewLattice) # Add the lattice to the list of lattices*\
 
 
 To make a new lattice
